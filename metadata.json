@@ -1,0 +1,6 @@
+{
+  "name": "Citadel Clash 3D",
+  "description": "Stylized 3D multiplayer base-building & real-time battle strategy game with guilds, voice-coordinated raids, crafting, and peer-to-peer auction house by Vighnesh Kanse ( ANONYMOUS).",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
